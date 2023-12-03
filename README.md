@@ -1,0 +1,1 @@
+# School_Waste_Management_System
